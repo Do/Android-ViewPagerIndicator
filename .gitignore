@@ -8,8 +8,6 @@ gen
 .settings
 
 #IntelliJ IDEA
-.idea
-*.iml
 classes
 
 #Maven
